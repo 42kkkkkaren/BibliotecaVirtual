@@ -1,5 +1,12 @@
 # BibliotecaVirtual
-Prática DevOps
+
+A aplicação Biblioteca Virtual foi implementada no ambiente Kubernetes, Minikube, e consiste em Backend - desenvolvido em Python, Frontend - desenvolvido em React e um banco de dados, no qual utilizamos o SQLide. 
+
+Frontend: Desenvolvido utilizando React, responsável pela interface com o campo para preenchimento de informações de determinado livro.
+
+Backend: Desenvolvido em Python, responsável pela lógica da aplicação. 
+
+Banco de Dados (SQLite): Armazena os dados referente aos livros. 
 
 ## Script de Automação
 
